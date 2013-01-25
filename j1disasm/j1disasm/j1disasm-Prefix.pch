@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'j1disasm' target in the 'j1disasm' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
